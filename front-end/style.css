@@ -70,3 +70,15 @@ h3 {
     color: #ffffff;
     margin-left: -1rem;
 }
+
+.addedtasks button {
+    margin-left: 1rem;
+}
+
+.hidden {
+    display: none;
+}
+
+.show {
+    display: inline-block;
+}
